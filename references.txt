@@ -1,0 +1,17 @@
+For this assignment I have utilized Google Gemini 3 to get information 
+about built-in Python functions, syntax, and general tips and tricks for
+Python coding. The consversations are linked below:
+https://gemini.google.com/share/a62c2a6ddbdc (Checking for duplicates)
+https://gemini.google.com/share/009330d1da30 ('is_integer()' function)
+https://gemini.google.com/share/580d8a98ef31 ('.join()' function)
+https://gemini.google.com/share/81909759f6a6 (Nested list length calculation)
+https://gemini.google.com/share/95ced4f50d0c ('range()' function parameters)
+
+Other than Google Gemini, I've also used these to refresh some of my
+old Python knowledge:
+https://www.youtube.com/watch?v=Xy6qeQWQwFw (2D grid basics)
+https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#escape (ANSI Escape Sequences)
+
+Apart from that, I've aqcuired the necessary knowledge, and tips and tricks 
+from INF-1400 Panopto Video lectures, the assignment text, and of course
+the precode.
