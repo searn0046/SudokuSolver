@@ -65,10 +65,10 @@ Then run:
 ### Windows (Command Prompt)
 
 ```bat
-py -m venv .venv
+python -m venv .venv
 .venv\Scripts\activate.bat
-py -m pip install --upgrade pip
-py -m pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 ```
 
 ## Run the Program
@@ -82,7 +82,7 @@ python3 main.py
 ### Windows
 
 ```powershell
-py main.py
+python main.py
 ```
 
 The program will load example boards from `sudoku_datafiles/` and print puzzle/solution pairs.
